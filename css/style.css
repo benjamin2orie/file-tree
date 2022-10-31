@@ -1,0 +1,88 @@
+#profile_img{
+    height: 70px;
+}
+:root{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0 0 15px rgba(152, 152, 152, 1);
+    max-width: 400px;
+    margin: auto;
+    height: 98vh;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+#profile_img{
+    margin-top: 2em;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#twitter, #slack{
+    font-size: 0.5em;
+    text-transform: capitalize;
+}
+#btn_zuri{
+    
+    font-size: 0.4em;
+    width: 60%;
+    height: 2em;
+    color: #fff;
+    border-radius: 30px 30px;
+    background-color: #a18cd1;
+    border: none;
+    margin-bottom: 1em;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+h2, p{
+    font-size: 0.3em;
+}
+#books{
+    background-color: #a18cd1;
+    width: 60%;
+    font-size: 0.4em;
+    height:2em;
+    color: #fff;
+    border-radius: 30px 30px;
+    border: none;
+    margin: 0.3em;
+}
+#book__python{
+    background-color: #a18cd1;
+    width: 60%;
+    font-size: 0.4em;
+    height:2em;
+    color: #fff;
+    border-radius: 30px 30px;
+    border: none;
+    margin: 0.3em;
+
+}
+#pitch{
+    background-color: #a18cd1;
+    width: 60%;
+    font-size: 0.4em;
+    height:2em;
+    color: #fff;
+    border-radius: 30px 30px;
+    border: none;
+    margin: 0.3em;
+}
+#book__design{
+    background-color: #a18cd1;
+    width: 60%;
+    font-size: 0.4em;
+    height:2em;
+    color: #fff;
+    border-radius: 30px 30px;
+    border: none;
+    margin: 0.3em;
+}
